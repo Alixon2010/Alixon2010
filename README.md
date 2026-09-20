@@ -16,9 +16,9 @@
 
 ### LingoZone
 
-**EN:** I am developing LingoZone, a private education-center management project. A separate public concept demo using fictional records is planned. The production application and real student data are not public.
+**EN:** I am developing LingoZone, a private education-center management project. [Public concept preview (fictional records)](docs/lingozone-demo/README.md) is available; an interactive hosted demo is not yet deployed. The production application and real student data are not public.
 
-**RU:** Разрабатываю LingoZone — приватный проект системы управления учебным центром. Отдельная публичная демонстрация на вымышленных данных находится в подготовке. Исходный код основной системы и реальные данные учеников не публикуются.
+**RU:** Разрабатываю LingoZone — приватный проект системы управления учебным центром. [Публичная концептуальная демонстрация на вымышленных данных](docs/lingozone-demo/README.md) доступна; интерактивная версия пока не развёрнута. Исходный код основной системы и реальные данные учеников не публикуются.
 
 ### Contact / Связь
 
